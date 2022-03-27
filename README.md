@@ -7,6 +7,6 @@
 > I'm also looking to collaborate with any other developers to gain experience and to share my knowlege with > the community.
 > 
 > Buzz me on
-> - [Twitter](https://twitter.com/vladcaye)
-> - [<Instagram](https://instagram.com/@vladcaye)
+> - Vlad Caye's Twitter: [Twitter](https://twitter.com/vladcaye)
+> - Vlad Caye's Instagram: [Instagram](https://instagram.com/@vladcaye)
 > - Or join my Discord [@VICCILAND](https://discord.gg/D4MHdFqmUU)
