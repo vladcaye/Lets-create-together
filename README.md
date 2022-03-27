@@ -1,6 +1,6 @@
 # Lets-create-together
 
-## Good day, I'm @VladCaye.
+## Good day, I'm Vlad Caye.
 > I'm interested in website and app development. Nowadays the #NFT craze is occupying quite some space in my > thoughts too :)
 > 
 > I'm currently trying to figure which framework/resource should I be using to start playing with 2D, 3D and > game engines like Unity or Unreal. Make sense?
