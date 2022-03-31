@@ -99,27 +99,5 @@ body {
   font-size: .9rem;
 }
 
-/* COUNTDOWN SECTION */
 
-section {
-  flex: 1 1 auto;
-}
-
-.countdown {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
-.countdown ul {
-  display: flex;
-  gap: 2rem
-}
-
-.countdown .clock-item {
-  list-style: none;
-  width: 70px;
-  height: auto;
-}
 
