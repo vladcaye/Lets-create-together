@@ -16,7 +16,7 @@ body {
   text-decoration: none;
 }
 .nav a:hover {
-  color: #c5cae9;
+  color: #333;
   transform: rotate(6deg);
   display: block;
   transition: all 0.3s ease-out;
