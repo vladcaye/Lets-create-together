@@ -14,10 +14,6 @@ html {
         font-size: 2vw;
         top: 50%;
     }
-
-    img {
-        width: 90%
-    }
 }
 
 @media screen and (max-width: 600px) {
@@ -27,7 +23,7 @@ html {
     }
 
     img {
-        width: 90%
+        width: 500px
     }
 }
 
